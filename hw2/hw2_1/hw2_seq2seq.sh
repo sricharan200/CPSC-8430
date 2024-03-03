@@ -1,1 +1,1 @@
-python3 test.py $1 S2
+python3 test.py $1 $2
